@@ -128,16 +128,14 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
  
+  /* Regole responsive tablet */
+  
  @media screen and (max-width:1160px) {
     
     .container {
         width: 100%;
     }
  }
-
- /* Regole responsive tablet */
- 
-
 
  /* Regole responsive mobile */
 
